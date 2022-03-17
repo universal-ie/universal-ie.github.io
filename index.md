@@ -1,3 +1,7 @@
+---
+title: Unified Structure Generation for Universal Information Extraction
+---
+
 ## News
 - [2022.02.24] UIE accepted by ACL 2022, long paper.
 
