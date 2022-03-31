@@ -12,7 +12,7 @@ Information extraction suffers from its varying targets, heterogeneous structure
 The code and pre-trained models are coming soon.
 
 ## Publications
-- Unified Structure Generation for Universal Information Extraction. Yaojie Lu, Qing Liu, Dai Dai, Xinyan Xiao, Hongyu Lin, Xianpei Han, Le Sun and Hua Wu. ACL 2022, long paper.
+- Unified Structure Generation for Universal Information Extraction. Yaojie Lu, Qing Liu, Dai Dai, Xinyan Xiao, Hongyu Lin, Xianpei Han, Le Sun and Hua Wu. ACL 2022. [[arxiv]](https://arxiv.org/abs/2203.12277)
 
 -------------
 *Last updated: Mar 15th, 2022*
