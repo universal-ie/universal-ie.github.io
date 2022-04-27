@@ -3,6 +3,7 @@ title: Unified Structure Generation for Universal Information Extraction
 ---
 
 ## News
+- [2022.04.27] **NEW!!!** [Submission website](https://aistudio.baidu.com/aistudio/competition/detail/161/0/submit-result) for UIE@CCKS2022 competition is open, welcome to submit your solutions!
 - [2022.04.21] Our code are public released.
 - [2022.04.12] Launch [universal information extraction competition](https://aistudio.baidu.com/aistudio/competition/detail/161/0/introduction) [@CCKS2022](http://sigkg.cn/ccks2022/?page_id=22).
 - [2022.02.24] UIE accepted by ACL 2022, long paper.
