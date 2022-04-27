@@ -14,9 +14,9 @@ Information extraction suffers from its varying targets, heterogeneous structure
 
 You can find code at [Github](https://github.com/universal-ie/UIE) and the pre-trained models as following CAS Cloud Box/Google Drive links.
 
-uie-en-base [[CAS Cloud Box]](https://pan.cstcloud.cn/s/Ncp9mI4Sc0) [[Google Drive]](https://drive.google.com/file/d/12Dkh6KLDPvXrkQ1I-1xLqODQSYjkwnvs/view) [[Huggingface]](https://huggingface.co/luyaojie/uie-base-en)
+uie-en-base [[CAS Cloud Box]](https://pan.cstcloud.cn/s/w2hTaHYaRWw) [[Google Drive]](https://drive.google.com/file/d/12Dkh6KLDPvXrkQ1I-1xLqODQSYjkwnvs/view) [[Huggingface]](https://huggingface.co/luyaojie/uie-base-en)
 
-uie-en-large [[CAS Cloud Box]](https://pan.cstcloud.cn/s/cmZg0iwTok) [[Google Drive]](https://drive.google.com/file/d/15OFkWw8kJA1k2g_zehZ0pxcjTABY2iF1/view) [[Huggingface]](https://huggingface.co/luyaojie/uie-large-en)
+uie-en-large [[CAS Cloud Box]](https://pan.cstcloud.cn/s/2vrXYBVTbk) [[Google Drive]](https://drive.google.com/file/d/15OFkWw8kJA1k2g_zehZ0pxcjTABY2iF1/view) [[Huggingface]](https://huggingface.co/luyaojie/uie-large-en)
 
 ## Publications
 - Unified Structure Generation for Universal Information Extraction. Yaojie Lu, Qing Liu, Dai Dai, Xinyan Xiao, Hongyu Lin, Xianpei Han, Le Sun and Hua Wu. ACL 2022. [[arxiv]](https://arxiv.org/abs/2203.12277) [[Code in PyTorch]](https://github.com/universal-ie/UIE)
