@@ -4,7 +4,7 @@ title: Unified Structure Generation for Universal Information Extraction
 
 ## News
 - [2022.04.27] **NEW!!!** [Submission website](https://aistudio.baidu.com/aistudio/competition/detail/161/0/submit-result) for UIE@CCKS2022 competition is open, welcome to submit your solutions!
-- [2022.04.21] Our code are public released.
+- [2022.04.21] Our [code](https://github.com/universal-ie/UIE) are public released.
 - [2022.04.12] Launch [universal information extraction competition](https://aistudio.baidu.com/aistudio/competition/detail/161/0/introduction) [@CCKS2022](http://sigkg.cn/ccks2022/?page_id=22).
 - [2022.02.24] UIE accepted by ACL 2022, long paper.
 
@@ -19,12 +19,12 @@ uie-en-base [[CAS Cloud Box]](https://pan.cstcloud.cn/s/w2hTaHYaRWw) [[Google Dr
 uie-en-large [[CAS Cloud Box]](https://pan.cstcloud.cn/s/2vrXYBVTbk) [[Google Drive]](https://drive.google.com/file/d/15OFkWw8kJA1k2g_zehZ0pxcjTABY2iF1/view) [[Huggingface]](https://huggingface.co/luyaojie/uie-large-en)
 
 ## Publications
-- Unified Structure Generation for Universal Information Extraction. Yaojie Lu, Qing Liu, Dai Dai, Xinyan Xiao, Hongyu Lin, Xianpei Han, Le Sun and Hua Wu. ACL 2022. [[arxiv]](https://arxiv.org/abs/2203.12277) [[Code in PyTorch]](https://github.com/universal-ie/UIE)
+- Unified Structure Generation for Universal Information Extraction. Yaojie Lu, Qing Liu, Dai Dai, Xinyan Xiao, Hongyu Lin, Xianpei Han, Le Sun and Hua Wu. ACL 2022. [[link]](https://aclanthology.org/2022.acl-long.395/) [[arxiv]](https://arxiv.org/abs/2203.12277) [[Code in PyTorch]](https://github.com/universal-ie/UIE)
 
 ## Competition
 - Universal Information Extraction @CCKS 2022 [[website]](https://aistudio.baidu.com/aistudio/competition/detail/161/0/introduction) [[Baseline in Paddle]](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/examples/information_extraction/DuUIE)
 
 -------------
-*Last updated: Apr 27th, 2022*
+*Last updated: May 19th, 2022*
 
 [![Day/Overall](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Funiversal-ie.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
