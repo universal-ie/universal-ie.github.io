@@ -30,6 +30,6 @@ This is a pointer-based solution for universal information extraction implemente
 This implementation is with the same intuition as UIE, but it replaces the T5-based generation model with an ERNIE-based pointer model and further fine-tunes on public available IE datasets.
 
 -------------
-*Last updated: May 19th, 2022*
+*Last updated: Sep 23rd, 2022*
 
 [![Day/Overall](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Funiversal-ie.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
