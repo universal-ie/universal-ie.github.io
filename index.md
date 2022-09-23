@@ -19,10 +19,15 @@ uie-en-base [[CAS Cloud Box]](https://pan.cstcloud.cn/s/w2hTaHYaRWw) [[Google Dr
 uie-en-large [[CAS Cloud Box]](https://pan.cstcloud.cn/s/2vrXYBVTbk) [[Google Drive]](https://drive.google.com/file/d/15OFkWw8kJA1k2g_zehZ0pxcjTABY2iF1/view) [[Huggingface]](https://huggingface.co/luyaojie/uie-large-en)
 
 ## Publications
-- Unified Structure Generation for Universal Information Extraction. Yaojie Lu, Qing Liu, Dai Dai, Xinyan Xiao, Hongyu Lin, Xianpei Han, Le Sun and Hua Wu. ACL 2022. [[link]](https://aclanthology.org/2022.acl-long.395/) [[arxiv]](https://arxiv.org/abs/2203.12277) [[Code in PyTorch]](https://github.com/universal-ie/UIE)
+- **Unified Structure Generation for Universal Information Extraction**. Yaojie Lu, Qing Liu, Dai Dai, Xinyan Xiao, Hongyu Lin, Xianpei Han, Le Sun and Hua Wu. ACL 2022. [[link]](https://aclanthology.org/2022.acl-long.395/) [[arxiv]](https://arxiv.org/abs/2203.12277) [[Code in PyTorch]](https://github.com/universal-ie/UIE) [[Code in Paddle]](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/examples/information_extraction/DuUIE)
 
 ## Competition
-- Universal Information Extraction @CCKS 2022 [[website]](https://aistudio.baidu.com/aistudio/competition/detail/161/0/introduction) [[Baseline in Paddle]](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/examples/information_extraction/DuUIE)
+- **Universal Information Extraction @CCKS 2022** [[website]](https://aistudio.baidu.com/aistudio/competition/detail/161/0/introduction) [[Baseline in Paddle]](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/examples/information_extraction/DuUIE)
+
+## Other Implementations
+- **UIE-Pointer: A pointer-based solution for universal information extraction** [[link](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/model_zoo/uie)] \\
+This is a pointer-based solution for universal information extraction implemented by Baidu and ISCAS.
+This implementation is with the same intuition as UIE, but it replaces the T5-based generation model with an ERNIE-based pointer model and further fine-tunes on public available IE datasets.
 
 -------------
 *Last updated: May 19th, 2022*
