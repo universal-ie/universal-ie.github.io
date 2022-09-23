@@ -25,7 +25,7 @@ uie-en-large [[CAS Cloud Box]](https://pan.cstcloud.cn/s/2vrXYBVTbk) [[Google Dr
 - **Universal Information Extraction @CCKS 2022** [[website]](https://aistudio.baidu.com/aistudio/competition/detail/161/0/introduction) [[Baseline in Paddle]](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/examples/information_extraction/DuUIE)
 
 ## Other Implementations
-- [PaddlePaddle] **UIE-Pointer: A pointer-based solution for universal information extraction** [[link](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/model_zoo/uie)] \\
+- [[PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/model_zoo/uie)] **UIE-Pointer: A pointer-based solution for universal information extraction** \\
 This is a pointer-based solution for universal information extraction implemented by Baidu and ISCAS.
 This implementation is with the same intuition as UIE, but it replaces the T5-based generation model with an ERNIE-based pointer model and further fine-tunes on public available IE datasets.
 
